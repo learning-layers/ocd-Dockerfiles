@@ -1,5 +1,5 @@
 FROM learninglayers/base
-MAINTAINER Cagatay Robbani <robbani@dbis@rwth-aachen.de>
+MAINTAINER Robbani <robbani@dbis@rwth-aachen.de>
 
 # Environment variables
 ENV JAVA_HOME="/usr/lib/jvm/java-8-oracle"
